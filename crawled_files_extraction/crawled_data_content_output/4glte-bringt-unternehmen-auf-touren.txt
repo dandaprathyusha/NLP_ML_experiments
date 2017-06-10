@@ -1,0 +1,651 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+		4G/LTE für Ihr Unternehmen – die Vorteile  | A1.net
+
+
+
+
+
+
+
+
+.async-hide { opacity: 0 !important} 
+
+			(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.end=i=function(){
+			s.className=s.className.replace(RegExp(' ?'+y),'')};(a[n]=a[n]||[]).hide=h;
+			setTimeout(function(){i();h.end=null},c);})(window,document.documentElement,
+			'async-hide','dataLayer',2000,{'GTM-KX2M7X':true,});
+		
+
+window['adrum-start-time'] = new Date().getTime();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Privatkunden
+
+
+
+    Selbständige & Firmen
+
+
+
+    Unternehmenslösungen
+
+
+
+
+
+
+
+
+
+            Suche
+
+
+
+            Webmail
+
+Login
+
+
+
+
+
+    Festnetz Warenkorb
+
+
+
+    Mobilfunk Warenkorb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lösungen & Geschäftsfelder
+
+
+
+
+
+    
+  Übersicht
+
+
+
+
+
+
+Sicherheit
+
+
+
+
+    Bester Schutz für Ihr Unternehmen
+
+
+
+
+
+Vernetzung
+
+
+
+
+    Zuverlässige Vernetzung durch A1
+
+
+
+
+
+IT-Services
+
+
+
+
+    Für Ihre Infrastruktur von morgen
+
+
+
+
+
+Public
+
+
+
+
+    Services für öffentliche Einrichtungen
+
+
+
+
+
+Kommunikation
+
+
+
+
+    Strukturen für effizientes Arbeiten
+
+
+
+
+
+Health
+
+
+
+
+    Lösungen für das Gesundheitswesen
+
+
+
+
+
+
+Erfolgsgeschichten& Referenzen
+
+
+
+News & Trends
+
+
+
+
+
+Beratung  & Kontakt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Business News
+			
+
+				Welchen Nutzen kann Ihr Unternehmen aus der 4. Mobilfunkgeneration ziehen?
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4G/LTE bringt Unternehmen auf Touren
+
+				4G/LTE bringt Unternehmen auf Touren
+			
+
+Zurück zur Übersicht
+
+
+
+
+
+
+
+
+
+
+
+ Zeit ist Geld. Dieses Motto gilt für Unternehmen heute mehr denn je. Der Grund: In unserer schnelllebigen Welt möchte niemand mehr warten. „Sofort“, „ASAP“ oder gar „Gestern“ lauten oft die Antworten von Kunden oder Geschäftspartnern auf Fragen zum Timing. Die vierte Mobilfunkgeneration 4G/LTE hilft Ihrem Unternehmen dabei, auch unterwegs Schritt zu halten und verschafft Ihnen einen Vorsprung gegenüber der Konkurrenz. Wie erfahren Sie hier.   Was 4G/LTE ist und wie es sich von 3G/HSPA+ unterscheidet.  LTE steht für „Long Term Evolution“ und beschreibt die vierte Mobilfunkgeneration (4G). Sie wurde entwickelt, um dem stark steigenden Datenverkehr gerecht zu werden – und ihn sogar noch zu beschleunigen. Mit Download-Raten von bis zu 150 Mbit/s und Upload-Raten von bis zu 50 Mbit/s ist diese Technologie bis zu 7-mal schneller als ihr Vorgänger, die dritte Mobilfunkgeneration 3G/HSPA+. Auf den Punkt gebracht: 4G/LTE ist das schnellste mobile Internet.   Welche Vorteile die vierte Mobilfunkgeneration Unternehmen bietet.  4G/LTE ist so schnell, dass Geschwindigkeit im Berufsleben kein Thema mehr darstellt. Fast alles ist umgehend auf Knopfdruck verfügbar, ganz ohne lange Wartezeiten. So dauert der Download eines 100 MB großen Software-Updates nur mehr 6 Sekunden. Eine Audiodatei mit einer Größe von 8 MB oder ein 5 MB großes PDF im  E-Mail-Anhang werden in nur einer einzigen Sekunde heruntergeladen. Die enorme Geschwindigkeit von 4G/LTE macht mobiles Arbeiten – egal ob im Home-Office oder unterwegs – nicht nur schneller, sondern auch komfortabler und flexibler. Denn nun ist es auch über das Smartphone oder Tablet mühelos möglich, große Datenmengen auszutauschen, noch schneller auf das Firmennetzwerk oder Business Applikationen zuzugreifen und an Video-Konferenzen in bester HD-Qualität teilzunehmen. Das Ergebnis: Die eigenen Prozesse und Reaktionszeiten werden beschleunigt und somit die Effizienz gesteigert.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fact Box
+
+
+Erst durch 4G/LTE wurde mobiles Arbeiten – egal an welchem Ort – komfortabler und flexibler.
+
+
+
+
+
+
+
+
+
+
+
+Nicht jedes 4G/LTE Netz ist gleich.
+ Damit Sie die Vorteile der vierten Mobilfunkgeneration nicht nur in den Ballungszentren, sondern auch am Stadtrand sowie in ländlichen Gebieten nutzen können, sollten Sie bei der Wahl des Anbieters besonders auf eine größtmögliche Netzabdeckung achten.  Nur mit dem richtigen Netz wird aus dem Unternehmens-Smartphone bzw. -Tablet ein leistungsstarker mobiler Arbeitsplatz.
+Egal, wo Sie überall mobil arbeiten möchten, mit Österreichs größtem 4G/LTE Netz von A1 treffen Sie die beste Wahl. Kein anderer Anbieter liefert Ihnen eine derart hohe Netzabdeckung. Melden Sie am besten gleich zu Ihrem Tarif die A1 Speed 4G/LTE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ähnliche Artikel
+
+
+
+Schneller unterwegs – mit 4G/LTE
+Mobil sicher unterwegs – egal mit welchem Betriebssystem 
+Unterwegs sicher auf das Firmennetzwerk zugreifen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weitere Infos
+
+
+
+Alle neuen Smartphones
+Zusätzliche Einheiten & Services
+Geht nicht gibt's nicht
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+
+
+
+
+
+
+
+	
+		
+		
+				Interesse an einer der Unternehmenslösungen von A1?
+		
+	
+
+
+Unser A1 Business Service Team steht Ihnen gerne beratend unter der Rufnummer 0800 664 444 664 rund um die Uhr und kostenlos zur Verfügung. Alternativ können Sie uns auch über die E-Mail-Adresse business.loesungen@a1.net erreichen. Wir kümmern uns rasch um Ihr Anliegen und melden uns in Kürze.Als bestehender Kunde steht Ihnen Ihr persönlicher A1 Business Berater gerne zur Verfügung.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schließen
+
+
+
+
+
+Eingabe löschen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Besuchen Sie A1 auf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nach oben
+
+
+
+Inhalt drucken
+
+
+
+
+
+
+
+
+Direkt zu
+
+
+
+    Kontakt
+
+
+
+    Shopfinder
+
+
+
+    AGB
+
+
+
+
+Business Login
+
+
+
+    Kundencenter
+
+
+
+    Network Admin
+
+
+
+    Geräteverwaltung
+
+
+
+
+Unsere Kompetenz
+
+
+
+    Referenzen
+
+
+
+    Business Magazin
+
+
+
+    Trends & News
+
+
+
+
+Unser Netz
+
+
+
+    Netzausbau
+
+
+
+    Netzabdeckung
+
+
+
+    C02-neutrales Netz
+
+
+
+
+Group
+
+
+
+    Wholesale
+
+
+
+    M2M-Lösungen
+
+
+
+    International Sales
+
+
+
+
+Über A1
+
+
+
+    Unternehmen
+
+
+
+    Presse & News
+
+
+
+    Impressum
+
+
+
+
+
+
+
+
+
+
+    A1
+
+
+
+    Vipnet
+
+
+
+    Vip mobile
+
+
+
+    velcom
+
+
+
+    Mobiltel
+
+
+
+    one.Vip
+
+
+
+    Si.mobil
+
+
+
+    Telecom Liechtenstein
+
+
+
+Member of Telekom Austria Group
+
+
+
+
+
+
+
+		/*<![CDATA[*/
+		
+		var TAG =  TAG ? TAG : {};
+		TAG.config = {};
+
+		var ACC = { config: {} };
+			ACC.config.contextPath = "";
+			ACC.config.encodedContextPath = "";
+			ACC.config.commonResourcePath = "/_ui/desktop/common";
+			ACC.config.themeResourcePath = "/_ui/desktop/theme-a1";
+			ACC.config.siteResourcePath = "/_ui/desktop/site-a1net";
+			ACC.config.rootPath = "/_ui/desktop";
+		
+			ACC.autocompleteUrl = 'https://asmp.a1.net/asmp/error?errorCode=404&amp;userRequestURL=https%3A%2F%2Fwww.a1.net%2Fsearch%2FautocompleteSecure&amp;serviceId=1055';
+			
+			
+		/*]]>*/
+	
+
+	/*<![CDATA[*/
+	ACC.addons = {};
+	
+	/*]]>*/
+
+
+
+
+
+
+
+
+
+
+  var pKey = '' || 'unknown';		// set default value
+  dataLayer.push({"cst": pKey});
+
+
+
+
+
+

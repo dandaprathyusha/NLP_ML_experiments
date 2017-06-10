@@ -1,0 +1,104 @@
+User responses :
+Greet State -{ hi, hello, good morning}
+------------------------------------------------------------------------------------------------------
+Stage2:
+
+<<<<<<<<<<<<< NONE >>>>>>>>>>>>>>>>>>>
+naku pradeshalu chudalani undi
+naku pradeshalaki vellalanundi
+naku pranthalaki vellalanundi
+naku pranthalu chudalani undi
+naku pradeshalu chupinchu
+naku pranthalu chupinchu
+nenu pradeshalu chudalanukuntunnanu
+nenu pranthalu chudalanukuntunnanu
+
+<<<<<<<<<<<<< TYPE >>>>>>>>>>>>>>>>>>>
+naku TYPE chudalani undi
+naku TYPE sandarshinchalani undi
+naku TYPE_ki ki vellalanundi
+naku TYPE chupinchu
+nenu TYPE chudalanukuntunnanu
+
+<<<<<<<<<<<<< PLACE >>>>>>>>>>>>>>>>>>>
+naku PLACE daggarunna pradeshalaki vellalanundi
+naku PLACE daggarunna pranthalaki vellalanundi
+naku PLACE daggarunna pradeshalu chudalani undi
+naku PLACE daggarunna pranthalu chudalani undi
+naku PLACE daggarunna pradeshalu chupinchu
+naku PLACE daggarunna pranthalu chupinchu
+nenu PLACE daggarunna pradeshalu chudalanukuntunnanu
+nenu PLACE daggarunna pranthalu chudalanukuntunnanu
+naku PLACE ki chuttupakkala unna pradeshalaki vellalanundi
+naku PLACE ki chuttupakkala unna pranthalaki vellalanundi
+naku PLACE ki chuttupakkala unna pradeshalu chudalani undi
+naku PLACE ki chuttupakkala unna pranthalu chudalani undi
+naku PLACE ki chuttupakkala unna pradeshalu chupinchu
+naku PLACE ki chuttupakkala unna pranthalu chupinchu
+nenu PLACE ki chuttupakkala unna pradeshalu chudalanukuntunnanu
+nenu PLACE ki chuttupakkala unna pranthalu chudalanukuntunnanu
+naku PLACE lo unna pradeshalaki vellalanundi
+naku PLACE lo unna pranthalaki vellalanundi
+naku PLACE lo unna pradeshalu chudalani undi
+naku PLACE lo unna pranthalu chudalani undi
+naku PLACE lo unna pradeshalu chupinchu
+naku PLACE lo unna pranthalu chupinchu
+nenu PLACE lo unna pradeshalu chudalanukuntunnanu
+nenu PLACE lo unna pranthalu chudalanukuntunnanu
+
+<<<<<<<<<<<<< PLACE TYPE >>>>>>>>>>>>>>>>>>>
+naku PLACE daggarunna TYPE chudalani undi
+naku PLACE daggarunna TYPE sandarshinchalani undi
+naku PLACE daggarunna TYPE_ki ki vellalanundi
+naku PLACE daggarunna TYPE chupinchu
+nenu PLACE daggarunna TYPE chudalanukuntunnanu
+naku PLACE ki chuttupakkala unna TYPE chudalani undi
+naku PLACE ki chuttupakkala unna TYPE sandarshinchalani undi
+naku PLACE ki chuttupakkala unna TYPE_ki ki vellalanundi
+naku PLACE ki chuttupakkala unna TYPE chupinchu
+nenu PLACE ki chuttupakkala unna TYPE chudalanukuntunnanu
+naku PLACE lo unna TYPE chudalani undi
+naku PLACE lo unna TYPE sandarshinchalani undi
+naku PLACE lo unna TYPE_ki ki vellalanundi
+naku PLACE lo unna TYPE chupinchu
+nenu PLACE lo unna TYPE chudalanukuntunnanu
+
+
+
+may i have a table in a MODERATE price range in PLACE for TWO people with CUISINE food
+          in a MODERATE price range with CUISINE food in PLACE for TWO people
+          in a MODERATE price range in PLACE with CUISINE food
+           in PLACE for TWO people in a MODERATE price range with CUISINE food
+           in PLACE
+           in PLACE for TWO people with CUISINE food in a MODERATE price range
+          in a MODERATE price range for TWO people
+
+i'd like to book a table
+can you book a table
+can you make a restaurant reservation
+--------------------------------------------------------------------------------------------------------
+Stage3: Missing information
+<SILENCE>
+
+
+CUISINE:
+    i love CUISINE food
+    with CUISINE food
+PLACE:
+    in PLACE
+    PLACE please
+NUM:
+    we will be NUM
+    for NUM please
+PRICE RANGE:
+    in a CHEAP price range
+    i am looking for a CHEAP restaurant
+
+=======================================================================================================================================================================
+
+Greet State
+hi
+hello
+good morning
+--------------------------------------------------------------------------------------------------------------
+Stage 2:

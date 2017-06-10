@@ -1,0 +1,8 @@
+SVM time   0.0001441859999999906
+SVM Accuracy   0.626262626263
+             precision    recall  f1-score   support
+
+         21       0.00      0.00      0.00         0
+          9       1.00      0.63      0.77        99
+
+avg / total       1.00      0.63      0.77        99

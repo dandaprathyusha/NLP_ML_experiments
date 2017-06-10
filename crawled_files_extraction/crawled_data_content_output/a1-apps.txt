@@ -1,0 +1,1152 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+		A1 Apps | A1.net
+
+
+
+
+
+
+
+
+.async-hide { opacity: 0 !important} 
+
+			(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.end=i=function(){
+			s.className=s.className.replace(RegExp(' ?'+y),'')};(a[n]=a[n]||[]).hide=h;
+			setTimeout(function(){i();h.end=null},c);})(window,document.documentElement,
+			'async-hide','dataLayer',2000,{'GTM-KX2M7X':true,});
+		
+
+window['adrum-start-time'] = new Date().getTime();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Privatkunden
+
+
+
+    Selbständige & Firmen
+
+
+
+    Unternehmenslösungen
+
+
+
+
+
+
+
+
+
+            Suche
+
+
+
+            Webmail
+
+Login
+
+
+
+
+
+    Festnetz Warenkorb
+
+
+
+    Mobilfunk Warenkorb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kombis
+
+
+
+
+
+    
+  Übersicht
+
+
+
+
+
+
+Kombi-Pakete
+
+
+
+
+    Internet + Kabel TV
+
+
+
+    Internet + Telefonie
+
+
+
+    A1 One! Alles in einem
+
+
+
+
+
+Kombi erweitern
+
+
+
+
+    Optionen & Geräte erweitern
+
+
+
+
+
+Entscheidungshilfe
+
+
+
+
+    Passendes Produkt finden
+
+
+
+
+
+Vorteile & Services
+
+
+
+
+    Kombinieren & Sparen
+
+
+
+    Umzug leicht gemacht
+
+
+
+    Heimvernetzung & WLAN
+
+
+
+    Alle Angebote
+
+
+
+
+
+
+
+Internet + TV 
+Zum Angebot
+
+
+
+
+
+Handys
+
+
+
+
+
+    
+  Übersicht
+
+
+
+
+
+
+Smartphones
+
+
+
+
+    Handys mit Vertrag
+
+
+
+    Handys mit Mobilpoints
+
+
+
+    Handys mit Wertkarte
+
+
+
+    Zubehör
+
+
+
+
+
+Tarife
+
+
+
+
+    Handytarife
+
+
+
+    Tarife ohne Handy
+
+
+
+    Jugendtarife
+
+
+
+    Zusatzoptionen
+
+
+
+    Roaming
+
+
+
+    Mehr Datenvolumen
+
+
+
+
+
+Wertkarte
+
+
+
+
+    B.free Tarife
+
+
+
+    Guthaben aufladen
+
+
+
+    Zusatzoptionen
+
+
+
+
+
+Vorteile & Services
+
+
+
+
+    Mobilpoints einlösen
+
+
+
+    Handys um € 0,-
+
+
+
+    Kombinieren & Sparen
+
+
+
+    Visa Karte
+
+
+
+    Alle Angebote
+
+
+
+
+
+
+
+Samsung Galaxy S8
+Jetzt bestellen
+
+
+
+
+
+Internet
+
+
+
+
+
+    
+  Übersicht
+
+
+
+
+
+
+Festnetz-Internet
+
+
+
+
+    Festnetz-Internet Tarife
+
+
+
+    Geschwindigkeit erhöhen
+
+
+
+    Zusatzoptionen
+
+
+
+
+
+Net Cube
+
+
+
+
+    Net Cube mit Vertrag
+
+
+
+    Net Cube Jugendtarif
+
+
+
+    Net Cube mit Wertkarte
+
+
+
+    Zusatzoptionen
+
+
+
+
+
+Mobiles Internet
+
+
+
+
+    Mobiles Internet - Tarife
+
+
+
+    Wertkarten-Tarife
+
+
+
+    Zusatzoptionen
+
+
+
+    Tablets, Sticks & Modems
+
+
+
+
+
+Vorteile & Services
+
+
+
+
+    Kombinieren & Sparen
+
+
+
+    Heimvernetzung & WLAN
+
+
+
+    Service Pickerl
+
+
+
+    Alle Angebote
+
+
+
+
+
+
+
+A1 Net Cube um € 0,-
+Zum Angebot
+
+
+
+
+
+TV
+
+
+
+
+
+    
+  Übersicht
+
+
+
+
+
+
+Kabel TV
+
+
+
+
+    TV Plus
+
+
+
+    Zusatzoptionen
+
+
+
+    View Control
+
+
+
+    Sender
+
+
+
+    Videothek
+
+
+
+
+
+Online TV
+
+
+
+
+    A1 Now
+
+
+
+    Sender
+
+
+
+    Videothek
+
+
+
+    Einloggen
+
+
+
+
+
+Vorteile & Services
+
+
+
+
+    Kombinieren & Sparen
+
+
+
+    Heimvernetzung & WLAN
+
+
+
+    Service Pickerl
+
+
+
+    Alle Angebote
+
+
+
+
+
+
+
+Gratis 7 Tage Fernsehen nachholen
+View Control
+
+
+
+
+
+
+
+Hilfe & Kontakt
+
+
+
+Mein A1Nicht angemeldet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				A1 Apps
+			
+
+				Die Welt von A1 immer mit dabei.
+
+            .transparent {
+                        background: rgba(255,255,255,.7) !important;
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unsere beliebtesten Apps
+
+				Unsere beliebtesten Apps
+			
+
+
+
+
+
+
+
+
+
+
+
+
+Mein A1
+Alle Informationen zu Ihren Kosten, Freieinheiten und Rechnungen auf einen Blick.
+
+kostenlos
+Mehr Infos und Download:
+
+
+
+
+
+
+
+
+
+
+
+HANDY Parken
+Parkscheine in vielen Städten bequem mit dem Handy buchen. Details unter HANDYParken.at
+App kostenlos, Nutzung kostenpflichtigMehr Infos und Download:
+
+
+
+
+
+
+
+
+
+Mehr anzeigen
+Weniger anzeigen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A1 TV
+Mit der A1 TV App fernschauen, fernsteuern und Sendungen von unterwegs aufnehmen.
+kostenlos
+
+Mehr Infos und Download:
+
+
+
+
+
+
+
+
+NOW TV Streaming
+Live TV mit über 40 Sendern und bis zu 7 Tage Fernsehen nachholen.
+
+€ 7,90 / Monat
+Mehr Infos und Download:
+
+
+
+
+
+
+Mehr anzeigen
+Weniger anzeigen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A1 Navi
+Nie wieder falsch abbiegen: Mit dem A1 Navi sicher und auf dem schnellsten Weg an Ihr gewünschtes Ziel.  
+
+ab € 1,90
+
+Mehr Infos und Download: 
+   
+
+
+
+
+
+
+A1 VISA Karte
+Transparenter, PIN geschützter Überblick zu Transaktionen und Rechnungen.  kostenlos Mehr Infos und Download:     
+
+
+
+
+Mehr anzeigen
+Weniger anzeigen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A1 Mobile Mail
+Verwalten Sie all Ihre E-Mail Konten ganz einfach in einer App.  € 0,90 / Monat Mehr Infos und Download:  
+
+
+
+
+
+
+A1 Handyschutz
+Noch mehr Sicherheit von A1 für Ihr Android-Gerät.  kostenlos in den A1 Go! Tarifen Mehr Infos und Download:  
+
+
+
+
+Mehr anzeigen
+Weniger anzeigen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A1 Sport
+Behalten Sie die Welt des Sports im Überblick – News, Ergebnisse, Live-Ticker.   kostenlos Mehr Infos und Download:   
+
+
+
+
+
+
+A1 Visual Voicemail
+Die A1 Visual Voicemail App – einfache Verwaltung für Ihre A1 Mobilbox.    kostenlos Mehr Infos und Download:  
+
+
+
+
+Mehr anzeigen
+Weniger anzeigen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A1 WLAN Manager
+Auf Knopfdruck Ihr Heim-WLAN optimieren - ohne technische Vorkenntnisse! Details zur WLAN Manager App
+kostenlos 
+Mehr Infos und Download: 
+ 
+
+
+
+
+Mehr anzeigen
+Weniger anzeigen
+
+
+
+
+
+
+
+
+
+
+
+Schließen
+
+
+
+
+
+Eingabe löschen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Besuchen Sie A1 auf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nach oben
+
+
+
+Inhalt drucken
+
+
+
+
+
+
+
+
+Mein A1
+
+
+
+    Registrierung & Login
+
+
+
+    Freieinheiten abfragen
+
+
+
+    Mobilpoints abfragen
+
+
+
+    Online-Rechnung
+
+
+
+    Online-Statistik
+
+
+
+    Daten ändern
+
+
+
+    B.free Guthaben abfragen
+
+
+
+
+Hilfe & Kontakt
+
+
+
+    Ihr Kontakt zu A1
+
+
+
+    Umzugsservice
+
+
+
+    Software-Downloads
+
+
+
+    Handy- & Tablet-Hilfe
+
+
+
+    E-Mail einrichten
+
+
+
+    Zu A1 wechseln
+
+
+
+    Infos zur Kündigung
+
+
+
+
+Tools
+
+
+
+    Verfügbarkeit prüfen
+
+
+
+    Internet-Speed-Test
+
+
+
+    Netzabdeckung Mobilfunk
+
+
+
+    LTE Abdeckung
+
+
+
+    Shopfinder
+
+
+
+    Online-Vorteile
+
+
+
+    Affiliate
+
+
+
+
+Handys & Tarife
+
+
+
+    Smartphone des Monats
+
+
+
+    Tarif wechseln
+
+
+
+    Neuheiten & Bestseller
+
+
+
+    Outdoor Handy
+
+
+
+    Handyversicherung
+
+
+
+    Handy Eintauschbonus
+
+
+
+    B.free Social
+
+
+
+
+Top-Smartphones
+
+
+
+    Samsung Galaxy S8
+
+
+
+    iPhone 7
+
+
+
+    Samsung Galaxy S7
+
+
+
+    HTC 10
+
+
+
+    Sony Xperia X Compact
+
+
+
+    Samsung Galaxy A 2017
+
+
+
+    Huawei P9 Lite
+
+
+
+
+Unternehmen
+
+
+
+    Über A1
+
+
+
+    Presse & News
+
+
+
+    Jobs & Karriere
+
+
+
+    Impressum
+
+
+
+    AGB
+
+
+
+    Sitemap
+
+
+
+    Kundmachung
+
+
+
+
+
+
+
+
+
+
+    A1
+
+
+
+    Vipnet
+
+
+
+    Vip mobile
+
+
+
+    velcom
+
+
+
+    Mobiltel
+
+
+
+    one.Vip
+
+
+
+    Si.mobil
+
+
+
+    Telecom Liechtenstein
+
+
+
+Member of Telekom Austria Group
+
+
+
+
+
+
+
+		/*<![CDATA[*/
+		
+		var TAG =  TAG ? TAG : {};
+		TAG.config = {};
+
+		var ACC = { config: {} };
+			ACC.config.contextPath = "";
+			ACC.config.encodedContextPath = "";
+			ACC.config.commonResourcePath = "/_ui/desktop/common";
+			ACC.config.themeResourcePath = "/_ui/desktop/theme-a1";
+			ACC.config.siteResourcePath = "/_ui/desktop/site-a1net";
+			ACC.config.rootPath = "/_ui/desktop";
+		
+			ACC.autocompleteUrl = 'https://asmp.a1.net/asmp/error?errorCode=404&amp;userRequestURL=https%3A%2F%2Fwww.a1.net%2Fsearch%2FautocompleteSecure&amp;serviceId=1055';
+			
+			
+		/*]]>*/
+	
+
+	/*<![CDATA[*/
+	ACC.addons = {};
+	
+	/*]]>*/
+
+
+
+
+
+
+
+
+
+
+  var pKey = '' || 'unknown';		// set default value
+  dataLayer.push({"cst": pKey});
+
+
+
+
+
+

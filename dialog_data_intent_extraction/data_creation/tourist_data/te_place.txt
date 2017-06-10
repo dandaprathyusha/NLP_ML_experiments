@@ -1,0 +1,24 @@
+naku PLACE daggarunna pradeshalaki vellalanundi
+naku PLACE daggarunna pranthalaki vellalanundi
+naku PLACE daggarunna pradeshalu chudalani undi
+naku PLACE daggarunna pranthalu chudalani undi
+naku PLACE daggarunna pradeshalu chupinchu
+naku PLACE daggarunna pranthalu chupinchu
+nenu PLACE daggarunna pradeshalu chudalanukuntunnanu
+nenu PLACE daggarunna pranthalu chudalanukuntunnanu
+naku PLACE ki chuttupakkala unna pradeshalaki vellalanundi
+naku PLACE ki chuttupakkala unna pranthalaki vellalanundi
+naku PLACE ki chuttupakkala unna pradeshalu chudalani undi
+naku PLACE ki chuttupakkala unna pranthalu chudalani undi
+naku PLACE ki chuttupakkala unna pradeshalu chupinchu
+naku PLACE ki chuttupakkala unna pranthalu chupinchu
+nenu PLACE ki chuttupakkala unna pradeshalu chudalanukuntunnanu
+nenu PLACE ki chuttupakkala unna pranthalu chudalanukuntunnanu
+naku PLACE lo unna pradeshalaki vellalanundi
+naku PLACE lo unna pranthalaki vellalanundi
+naku PLACE lo unna pradeshalu chudalani undi
+naku PLACE lo unna pranthalu chudalani undi
+naku PLACE lo unna pradeshalu chupinchu
+naku PLACE lo unna pranthalu chupinchu
+nenu PLACE lo unna pradeshalu chudalanukuntunnanu
+nenu PLACE lo unna pranthalu chudalanukuntunnanu

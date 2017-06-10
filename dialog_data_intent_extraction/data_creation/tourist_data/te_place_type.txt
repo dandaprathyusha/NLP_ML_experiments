@@ -1,0 +1,15 @@
+naku PLACE daggarunna TYPE chudalani undi
+naku PLACE daggarunna TYPE sandarshinchalani undi
+naku PLACE daggarunna TYPE_ki vellalanundi
+naku PLACE daggarunna TYPE chupinchu
+nenu PLACE daggarunna TYPE chudalanukuntunnanu
+naku PLACE ki chuttupakkala unna TYPE chudalani undi
+naku PLACE ki chuttupakkala unna TYPE sandarshinchalani undi
+naku PLACE ki chuttupakkala unna TYPE_ki vellalanundi
+naku PLACE ki chuttupakkala unna TYPE chupinchu
+nenu PLACE ki chuttupakkala unna TYPE chudalanukuntunnanu
+naku PLACE lo unna TYPE chudalani undi
+naku PLACE lo unna TYPE sandarshinchalani undi
+naku PLACE lo unna TYPE_ki vellalanundi
+naku PLACE lo unna TYPE chupinchu
+nenu PLACE lo unna TYPE chudalanukuntunnanu
