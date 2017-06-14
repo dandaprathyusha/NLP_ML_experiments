@@ -1,0 +1,8 @@
+NB time   0.010510750999998208
+NB Accuracy   0.43137254902
+             precision    recall  f1-score   support
+
+         21       0.00      0.00      0.00         0
+          8       1.00      0.43      0.60       102
+
+avg / total       1.00      0.43      0.60       102
